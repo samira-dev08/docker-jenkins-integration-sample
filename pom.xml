@@ -13,7 +13,7 @@
 	<artifactId>docker-jenkins-integration-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<description>docker jenkins integration sample </description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
